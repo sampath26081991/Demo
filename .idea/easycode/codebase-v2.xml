@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/com/opencart/pages/BasePage.java;C:/Users/sampath.kankanala/IdeaProjects/OpenCart/src/main/java/com/opencart/pages/CartPage.java;C:/Users/sampath.kankanala/IdeaProjects/OpenCart/src/main/java/com/opencart/pages/LoginPage.java;C:/Users/sampath.kankanala/IdeaProjects/OpenCart/src/main/java/com/opencart/pages/ProductsPage.java;C:/Users/sampath.kankanala/IdeaProjects/OpenCart/src/main/java/com/opencart/utils/ConfigReader.java;C:/Users/sampath.kankanala/IdeaProjects/OpenCart/src/main/java/com/opencart/Main.java;C:/Users/sampath.kankanala/IdeaProjects/OpenCart/src/test/java/com/opencart/base/BaseTest.java" />
+    <option name="forceFullIndex" value="false" />
+  </component>
+</project>
