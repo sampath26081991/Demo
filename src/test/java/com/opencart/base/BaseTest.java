@@ -82,6 +82,8 @@ public class BaseTest {
         LoginPage loginPage =
                 new LoginPage(driver);
 
+        loginPage.closePopupIfPresent();
+
         loginPage.login(username, password);
 
         System.out.println("Login Successful");

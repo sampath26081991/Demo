@@ -54,7 +54,6 @@ public class NavigationToTax extends BasePage {
         waitForVisibility(taxGroupsMenu);
         clickUsingActions(taxGroupsMenu);
         hardWait(5);
-        click(addTaxGroupButton);
     }
 
     public void clickAddTaxGroupButton() {
